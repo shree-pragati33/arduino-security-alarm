@@ -18,7 +18,10 @@ The project was developed using an existing tutorial as a starting point, which 
 | Resistors and jumper wires | Circuit connections |
 
 ## 3. Circuit Design
-
+- Add photo of the Full circuit
+- Add photo as the Components close-up
+- Add video of Working display
+- Add a schematic
 
 | Component | Arduino pin |
 | --- | --- |
@@ -30,8 +33,3 @@ The project was developed using an existing tutorial as a starting point, which 
 
 ## 4. Acknowledgments
 
-
-
-
-### Subsection (Heading 3)
-#### Minor Subsection (Heading 4)
